@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\Projects\_Clock\_Clock\bin\Debug\_Clock.exe.config
+C:\Users\William\Desktop\Projects\_Clock\_Clock\bin\Debug\_Clock.exe
+C:\Users\William\Desktop\Projects\_Clock\_Clock\bin\Debug\_Clock.pdb
+C:\Users\William\Desktop\Projects\_Clock\_Clock\obj\Debug\_Clock.csprojAssemblyReference.cache
+C:\Users\William\Desktop\Projects\_Clock\_Clock\obj\Debug\_Clock.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Projects\_Clock\_Clock\obj\Debug\_Clock.exe
+C:\Users\William\Desktop\Projects\_Clock\_Clock\obj\Debug\_Clock.pdb
